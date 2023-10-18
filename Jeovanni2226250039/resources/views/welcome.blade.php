@@ -16,6 +16,6 @@
         </style>
     </head>
     <body class="antialiased">
-        <h1>Jeovanni </h1>
+        <h1>Jeovanni Wong</h1>
     </body>
 </html>

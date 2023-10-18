@@ -1,4 +1,4 @@
 <div>
-    <!-- Let all yaou things have their places; let each part of your business have its time. - Benjamin Franklin -->
-    ini adalah alert, bisa digunakan untuk menampilkan alert sukses atau gagal!
+    <!-- Knowing is not enough; we must apply. Being willing is not enough; we must do. - Leonardo da Vinci -->
+    Ini adalah alert
 </div>
